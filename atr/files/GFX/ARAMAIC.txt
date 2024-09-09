@@ -1,5 +1,15 @@
-Tytuł: Aramejski Sen - ekran tytułowy / Aramaic Dream Titlescreen
-Platforma: Atari XL/XE
-Autor: Kaz / PTODT
+Party:   Silly Venture 2k23 SE
+Compo:   ATARI XL/XE GFX COMPO
+Title:   Aramejski Sen
+Author:  Krzysztof A. Ziembik
+         aka Kaz/PTODT
 
-Wykorzystane narzędzia: Crack Art (Atari ST/STE), Graph2Font (Atari XL/XE). Ekran tytułowy gry o języku aramejskim, która to gra powstaje. Pozdro dla organizatorów i uczestników SV!
+Info:    Aramaic Dream Titlescreen
+Tools:   Crack Art (Atari ST/STE)
+         Graf2Font (Atari XL/XE)
+
+Title screen of the Aramaic language
+game that is currently developed.
+ 
+Greetings to the organizers
+and participants of SV!
