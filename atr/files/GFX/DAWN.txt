@@ -7,15 +7,15 @@ Author:  Florent Coste
 Info:    336x240 - 31 colors
 Tools:   Graf2Font
 
-+-----------------------------------+
-|                                   |
-|  Hiroshima                        |
-|  August 6th, 1945 - 8:14 AM       |
-|                                   |
-| Mum, look at the sky, what is it ?|
-| It's a plane, Tetsuo, just a plane|
-|                                   |
-+-----------------------------------+
+
++----------------------------------+
+|Hiroshima                         |
+|August 6th, 1945 - 8:14 AM        |
+|                                  |
+|Mum, look at the sky, what is it ?|
+|It's a plane, Tetsuo, just a plane|
++----------------------------------+
+
 
 
 
@@ -26,6 +26,8 @@ _____________________________________
   | . | -_| . | -_|
   |  _|___|  _|___|
   |_|     |_|
+  
+_____________________________________
   
   http://peek.poke.free.fr/st
   https://demozoo.org/sceners/123351

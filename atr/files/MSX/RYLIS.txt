@@ -1,11 +1,9 @@
-Praca na "Silly Venture 2023 Summer Edition"
-
-autor: przunk
-kategoria: Atari 8-bit pockey MSX
-konfiguracja sprzętowa: MONO (4-channels / tracks)
-
-zawartość: 
- - rylis.rmt - projekt w RMT
- - rylis.sap - export projektu do formatu sap
- - rylis.xex - export projektu do formatu binarnego xex
- - readme.txt
+Party:   Silly Venture 2k23 SE
+Compo:   ATARI XL/XE POKEY MSX COMPO
+Title:   Rylis
+Author:  Artur Pyszczuk
+         aka przunk
+Runtime: 2:38
+Player:  Raster Music Tracker 1.28
+         Origial RMT file included
+Info:    Mono
