@@ -1,0 +1,13 @@
+Party:   Silly Venture 2k23 SE
+Compo:   ATARI XL/XE DEMO COMPO
+Title:   ???
+Author:  ???
+
+sv23we invite
+-------------
+- intro should run on any A8 with at least 48 kB RAM
+- stereo POKEY supported
+- music: Buddy
+- original logo: mOOnie
+- logo converted 2 A8 + coding: PPs
+_________________________________________August 2023

@@ -1,0 +1,9 @@
+Music name - The Dark Moon Is Rising (vertigo remix)
+Compo - Pokey - STEREO
+Author - Poison
+Editor - SDCMC
+Year - 2023
+
+- Very Important NOTE -
+
+If the track is to be played from a real Atari, it is imperative that the audio setup is set to 100% separation of the left and right channels. Otherwise the sound will be overdriven and will not play properly.

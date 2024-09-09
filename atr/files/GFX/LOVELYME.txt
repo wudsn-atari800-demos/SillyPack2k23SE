@@ -1,0 +1,15 @@
+------------------
+--- for SV23se ---
+------------------
+
+Titel: Lovely Melody
+
+Autor: Buddy
+
+Date: Aug-2023
+
+Categorie: Atari XL/XE gfx Compo 
+
+*.mic Micropaint-File
+*.xex run on Altirra
+*.png for PC

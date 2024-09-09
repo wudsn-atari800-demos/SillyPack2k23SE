@@ -1,0 +1,6 @@
+colored sines
+-------------
+- should run on any A8 computer
+- 251 bytes intro for sv23se
+- coded between June 26th and July 13th, 2023
+______stay_ATARI!_________________________PPs

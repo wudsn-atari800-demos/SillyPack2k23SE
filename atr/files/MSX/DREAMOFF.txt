@@ -1,0 +1,5 @@
+Title: DREAM OFF
+Author: ZoltarX/NG
+Category: ATARI XL/XE POKEY MUSIC
+Configuration: Classic RMT 1.28/1.30, STEREO
+

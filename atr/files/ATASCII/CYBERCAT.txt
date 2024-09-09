@@ -1,0 +1,22 @@
+Party:   Silly Venture 2k23 SE
+Compo:   ATARI XL/XE ATASCII COMPO
+Title:   CyberPunKatze
+Author:  Florent Coste
+         aka pepe/Hemoroids
+
+Info:    40x25 chars, 2 colors
+         Stay Cyber, stay Punk,
+         stay Katze.
+Date:    August, 2023
+Tools:   playSCII 
+         vectorpoem.com/playscii/
+
+    Be righteous, STay Atari ! 
+_____________________________________
+
+   ___ _/_ ___ _/_ 
+  | . | -_| . | -_|
+  |  _|___|  _|___|
+  |_|     |_|
+  
+_____________________________________

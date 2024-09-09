@@ -1,0 +1,131 @@
+        ______   ___ ___      ___                    
+       /   __|___\_//  /_____/  /________            
+  _ __/____\|   /  /  /_    /  /_    /   |_____   2023 SUMMER EDITION   
+ _ ___   |/    /  \   \|   /   \|   /    |/   /        RESULTS      
+      \ ._____/___/._______ .______/\___     /   --+ Silly Venture +--
+       \|         \|       \|          /    /
+                _____________________ /____/  _ __ _____________________
+          ___  /    /    __/_   _    /   _/_______  __   /  _    /    _/__ _
+         /   |/    /   _____/  |    /     _/  /   | /   /  |/   /   ______
+   _  _ /    |    /    \|  /   |    \    /   /    |/   /   |    \   \|  /__ _
+   \\\__\ .______/\ ._____/.___|\____\ ._\__/\ .______/\ ._|\    \ ____/ _///
+         \|        \|     \|          \|      \|        \|   \____\|sK!
+                   ___________________________________________
+ _________________ \| __ _  \|     compos results        \|
+._\\__________________________________________________________________________.
+|                                                                             |
+|   ....................Staying faithful to ATARI's roots!.................   :
+:   ................... 17-20 AUGUST 2023 GDANSK / POLAND .................   .
+.                 ___________________________________________________________/
+                \_\_________________________________________________________.
+
+ TITLE:                                     AUTHOR:                       PTS:
+01. Readme                                 JAC!                          n/a
+02. Invitation #1                          Desire                        n/a
+03. Invitation #2                          Desire                        n/a
+04. Invitation #3                          PPs                           n/a
+05. Invitation #4                          Xeen                          n/a
+
+
+    ____,
+  /|\___| ATARI XL/XE - GRAPHICS COMPO
+
+ TITLE:                                     AUTHOR:                       PTS:
+
+01. Don't Step on the Demoscener's Ego!    PI / GPDWT                    7.644
+02. Self Test                              Raphis / Agenda               6.966
+03. Dawn. Then Dusk.                       pépé / Hemoroids              6.825
+04. Aramaic Dream Titlescreen              NoName                        6.379
+05. Lovely Melody                          Buddy                         4.491
+
+    ____.
+  /|\___| ATARI XL/XE - ATASCII COMPO
+
+ TITLE:                                     AUTHOR:                       PTS:
+
+01. Iced Earth                             Odyn1ec                       7.237
+02. CyberPunKatze                          pépé / Hemoroids              7.175
+03. Cosmic Shaman                          +Adam+                        5.431
+
+    ____.
+  /|\___| ATARI XL/XE - POKEY MUSIC COMPO
+
+ TITLE:                                      AUTHOR:                      PTS:
+
+01. Prick up your ears                      Buddy                        7.000
+02. Dream off                               ZoltarX / NG                 6.741
+03. Rylis                                   Przunk                       6.373
+04. The Dark Moon Is Rising (vertigo remix) Poison                       5.966
+
+    ____.
+  /|\___| WILD COMPO
+
+ TITLE:                                      AUTHOR:                      PTS:
+
+ 01. The duel                                Buddy                        7.196
+ 02. Echoes from the depths of the TIA       Buddy                        6.569
+ 03. For Eternity CD Teaser                  Poison                       6.431
+ 04. Christ Mass Knight (SV 2023 SE Edition) Poison                       6.157
+ 05. Russian War                             Pawel - "nowy80Retro",       6.140
+                                             Rafal, Marcin
+
+    ____.
+  /|\___| ATARI XL/XE - 256B GAME COMPO
+
+ TITLE:                                      AUTHOR:                      PTS:
+
+ 01. Epic Killer Rabbits Battle              KK/Altair                    8.102
+ 02. Skarb Piratów                           Krzys                        5.837
+
+    ____.
+  /|\___| ATARI XL/XE - GAME COMPO
+
+ TITLE:                                      AUTHOR:                      PTS:
+
+01. Adoom                                   Swiety/Zelax                 8.698
+02. Greedy Bat                              Coded by Zdenda              6.078
+03. Dark City Road	                     Coded by Zdenda,             5.627
+                                             Music by Poison,
+                                             Car-design by PG
+04. Robot and Minion                        Coded by Zdenda,             5.431
+                                             Music/sounds by PG
+05. Zdendazuma II. datadisk 01              Zdenda                       5.173
+06. Zdendazuma II. datadisk 03              Zdenda                       4.962
+07. Zdendazuma II. datadisk 02              Zdenda                       4.882
+08. Zdendazuma II. datadisk 04              Zdenda                       4.769
+09. Tetris T                                Coded by Zdenda,             4.765
+                                             Music by Poison
+10. Zdendazuma II. datadisk 06              Zdenda                       4.635
+11. Zdendazuma II. datadisk 05              Zdenda                       4.549
+
+    ____.
+  /|\___| ATARI XL/XE - INTRO 256B
+
+ TITLE:                                      AUTHOR:                      PTS:
+
+01. colored sines                           PPs                          7.043
+02. Flight Over Unknown Land                Kane / Suspect               5.458
+03. Eternal Sunshine                        gorgh/Agenda                 5.298
+
+    ____.
+  /|\___| ATARI XL/XE - DEMO STANDARD (6502/GTIA)
+
+ TITLE:                                      AUTHOR:                      PTS:
+
+01. Atari3D                                 Desire                       6.900
+02. sv23we invite                           Buddy and PPs                6.660
+03. )...incomplete...(                      Buddy and PPs               5.981
+
+    _________________________________________________________________________
+   _\                                                                       /_
+  |                        16TH EDITION OF SILLY VENTURE                      |
+  :                                                                           |
+  ._                       GDANSK, POLAND 17-20.08.2023                      _:
+   /___________________              ___    .___            ________________\
+                      /________>> /\  |  /\ | _/ | <<_______\
+                                 /  \ | /  \|  \ |        sK!
+                                F  O  R  E  V  E  R
+
+
+          TITLE:                       AUTHOR:                          PTS:
+         01. Atari Adventure          PG / AGG^Unreal                  7.447

@@ -1,0 +1,15 @@
+Party:   Silly Venture 2k23 SE
+Compo:   ATARI XL/XE ATASCII COMPO
+Title:   Iced Earth
+Author:  Jarek Wyszynski
+         aka Odyn1ec
+
+Info:    40x28 chars, 2 colors
+
+Playscii XEX exporter upgraded to 28
+character lines by +Adam+ with
+Bocianu's help.
+
+In the afterparty version the frame
+color has been changed from black to
+white.

@@ -1,0 +1,6 @@
+Autor: Krzysztof Rogowski (Krzyś)
+Kategoria: Game 256B
+Tytuł: Skarb Piratów
+Napisane w: Quick Assembler
+Sprzęt: Atari 800XL (stock), joystick
+Plik wykonywalny: skarb.xex

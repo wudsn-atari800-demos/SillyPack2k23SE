@@ -1,0 +1,5 @@
+Tytuł: Aramejski Sen - ekran tytułowy / Aramaic Dream Titlescreen
+Platforma: Atari XL/XE
+Autor: Kaz / PTODT
+
+Wykorzystane narzędzia: Crack Art (Atari ST/STE), Graph2Font (Atari XL/XE). Ekran tytułowy gry o języku aramejskim, która to gra powstaje. Pozdro dla organizatorów i uczestników SV!

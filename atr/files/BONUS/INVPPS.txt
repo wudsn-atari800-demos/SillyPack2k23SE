@@ -1,0 +1,11 @@
+sv2023se_invitro
+===============+
+- should run on any a8 with at least 48 kB of RAM
+- stereo POKEY supported
+- NTSC & PAL friendly
+- code: PPs
+- gfx: original by mOOnie/MSB, conversion 2 a8 by PPs
+- music: Buddy
+- scrolltext: Grey/MSB
+
+CU @ SV2023SE!

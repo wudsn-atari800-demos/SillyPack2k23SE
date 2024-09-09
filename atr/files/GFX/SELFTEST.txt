@@ -1,0 +1,15 @@
+
+  +----------------------------+
+  |    Silly Venture 2023SE    |
+  +----------------------------+
+
+      compo: Graphics compo
+ 
+      title: Self Test
+
+     author: Raphis / Agenda
+
+      specs: 320x240, hires
+
+   platform: Atari XL/XE
+

@@ -1,0 +1,7 @@
+Adoom  by Krzysztof Swiecicki - Swiety/ZELAX
+
+Wersja na silly venture 2023 , zmieniony tryb graficzny na tryb 10 , przekonwertowane od nowa
+wszystkie postacie i textury , zmieniona mapka - zwiększone pole oraz zmieniony ekran.
+
+Gra bazuje na porcie Vicdooma - Steve Mc'crea ale został praktycznie napisany w całości od nowa
+

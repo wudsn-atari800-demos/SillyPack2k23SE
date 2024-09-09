@@ -1,0 +1,27 @@
+                       /|
+                      //|.
+                     //_| .
+                 __ // /| .
+                /_ \/\__|. 
+                \\_/  _/|_
+                .g.e.n.d.a.
+
+______________________________________________________
+
+
+             Silly Venture 2023
+  	    unofficial invitation 
+                   (256b)
+______________________________________________________
+
+                code: xeen
+______________________________________________________
+
+     Decrunch 2023 256b 8bit compo, Procedural gfx
+______________________________________________________
+
+     Requirements: standard PAL Atari XL/XE
+	
+Contact: mcora@tlen.pl
+Should run fine from DOS (e.g. DOS2.5) and SIDELoader.
+It takes acc 28 seconds to render. Be patient. 
