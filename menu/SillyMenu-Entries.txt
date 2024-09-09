@@ -58,18 +58,6 @@
 04. The Dark Moon Is Rising (vertigo remix) Poison                       5.966
 
     ____.
-  /|\___| WILD COMPO
-
- TITLE:                                      AUTHOR:                      PTS:
-
- 01. The duel                                Buddy                        7.196
- 02. Echoes from the depths of the TIA       Buddy                        6.569
- 03. For Eternity CD Teaser                  Poison                       6.431
- 04. Christ Mass Knight (SV 2023 SE Edition) Poison                       6.157
- 05. Russian War                             Pawel - "nowy80Retro",       6.140
-                                             Rafal, Marcin
-
-    ____.
   /|\___| ATARI XL/XE - 256B GAME COMPO
 
  TITLE:                                      AUTHOR:                      PTS:
@@ -115,6 +103,19 @@
 01. Atari3D                                 Desire                       6.900
 02. sv23we invite                           Buddy and PPs                6.660
 03. )...incomplete...(                      Buddy and PPs               5.981
+
+
+    ____.
+  /|\___| WILD COMPO
+
+ TITLE:                                      AUTHOR:                      PTS:
+
+ 01. The duel                                Buddy                        7.196
+ 02. Echoes from the depths of the TIA       Buddy                        6.569
+ 03. For Eternity CD Teaser                  Poison                       6.431
+ 04. Christ Mass Knight (SV 2023 SE Edition) Poison                       6.157
+ 05. Russian War                             Pawel - "nowy80Retro",       6.140
+                                             Rafal, Marcin
 
     _________________________________________________________________________
    _\                                                                       /_
