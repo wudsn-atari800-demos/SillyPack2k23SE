@@ -1,8 +1,8 @@
-Silly Venture 2023 SE Atari XL/XE GFX COMPO ENTRY
+Party:   Silly Venture 2k23 SE
+Compo:   ATARI XL/XE GFX COMPO
+Title:   Don't Step on the 
+         Demoscener's Ego!
+Author:  ??? ???
+         aka PI/GPDWT
 
-Graphics title: "Don't Step on the Demoscener's Ego!"
-
-Author: 𝜋 (3.1415926535897932...)
-
-Group: GPDWT
-
+Tools:   Graf2Font

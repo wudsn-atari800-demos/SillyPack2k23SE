@@ -1,15 +1,8 @@
-------------------
---- for SV23se ---
-------------------
+Party:   Silly Venture 2k23 SE
+Compo:   ATARI XL/XE GFX COMPO
+Title:   Lovely Melody
+Author:  Christian Duesterhoeft
+         aka Buddy
 
-Titel: Lovely Melody
-
-Autor: Buddy
-
-Date: Aug-2023
-
-Categorie: Atari XL/XE gfx Compo 
-
-*.mic Micropaint-File
-*.xex run on Altirra
-*.png for PC
+Info:    Micropainter format
+Date:    August 2023

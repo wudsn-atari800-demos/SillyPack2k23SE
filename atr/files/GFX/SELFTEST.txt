@@ -1,15 +1,8 @@
+Party:   Silly Venture 2k23 SE
+Compo:   ATARI XL/XE GFX COMPO
+Title:   Self Test
+Author:  Rafal Szczytko
+         aka aka Raphis/Agenda
 
-  +----------------------------+
-  |    Silly Venture 2023SE    |
-  +----------------------------+
-
-      compo: Graphics compo
- 
-      title: Self Test
-
-     author: Raphis / Agenda
-
-      specs: 320x240, hires
-
-   platform: Atari XL/XE
+Info:    320x240, hires
 
