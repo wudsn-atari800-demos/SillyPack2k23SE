@@ -1,5 +1,10 @@
-Title: DREAM OFF
-Author: ZoltarX/NG
-Category: ATARI XL/XE POKEY MUSIC
-Configuration: Classic RMT 1.28/1.30, STEREO
+Party:   Silly Venture 2k23 SE
+Compo:   ATARI XL/XE POKEY MSX COMPO
+Title:   Dream Off
+Author:  Filip Golewski 
+         aka ZoltarX/NG
+Runtime: 2:45
 
+Tracker: Raster Music Tracker 1.28
+         Origial RMT file included
+Info:    Stereo, 2nd POKEY required

@@ -1,9 +1,19 @@
-Music name - The Dark Moon Is Rising (vertigo remix)
-Compo - Pokey - STEREO
-Author - Poison
-Editor - SDCMC
-Year - 2023
+Party:   Silly Venture 2k23 SE
+Compo:   ATARI XL/XE POKEY MSX COMPO
+Title:   The Dark Moon Is Rising
+         (Virtual Vertigo remix)
+Author:  Marek Pesout 
+         aka Poison
+Runtime: 3:28
 
-- Very Important NOTE -
+Tracker: Stereo Double CMC
+Info:    Stereo, 2nd POKEY required
 
-If the track is to be played from a real Atari, it is imperative that the audio setup is set to 100% separation of the left and right channels. Otherwise the sound will be overdriven and will not play properly.
+Very Important Note
+===================
+If the track is to be played from a
+real Atari, it is imperative that the
+audio setup is set to 100% separation
+of the left and right channels.
+Otherwise the sound will be over-
+driven and will not play properly.
