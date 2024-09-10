@@ -50,7 +50,7 @@
   TITLE:                                      AUTHOR:                     PTS:
  01. Prick up your ears                      Buddy                       7.000
  02. Dream off                             ZoltarX/NG                  6.741
- 03. Rylis                                 Przunk                      6.373
+ 03. Rylis                                   Przunk                      6.373
  04. The Dark Moon Is Rising               Poison                      5.966
 
     ____.
