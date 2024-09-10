@@ -1,6 +1,10 @@
-Autor: Krzysztof Rogowski (Krzyś)
-Kategoria: Game 256B
-Tytuł: Skarb Piratów
-Napisane w: Quick Assembler
-Sprzęt: Atari 800XL (stock), joystick
-Plik wykonywalny: skarb.xex
+Party:   Silly Venture 2k23 SE
+Compo:   ATARI XL/XE 256B GAME COMPO
+Title:   Skarb Piratow
+Author:  Krzysztof Rogowski
+         aka Krzys
+
+Info:    No sound
+         SillyPack compatible version
+
+Tools:   Quick Assembler

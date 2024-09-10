@@ -58,7 +58,7 @@
 
   TITLE:                                      AUTHOR:                     PTS:
  01. Epic Killer Rabbits Battle              KK/Altair                   8.102
- 02. Skarb Piratów                           Krzys                       5.837
+ 02. Skarb Piratow                           Krzys                       5.837
 
     ____.
   /|\___| ATARI XL/XE - GAME COMPO

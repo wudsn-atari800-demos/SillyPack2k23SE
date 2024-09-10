@@ -1,27 +1,42 @@
+Party:   Silly Venture 2k23 SE
+Compo:   ATARI XL/XE 256B GAME COMPO
+Title:   Epic Killer Rabbits Battle
+Author:  Krzysztof Kluczek
+         aka kk/Altair
 
- ================ Epic Killer Rabbits Battle! - a 256 bytes game for Atari XL/XE by Altair ================
-
-        BOOT WITH BASIC!!! (NO OPTION KEY)
-
+Info:    No sound
+         Requires BASIC
+         SillyPack comptible version.
 
 Objective:
-   Exterminate opposing rabbit army!
-   Devour carrots to multiply!
-   Rush on enemy rabbit for them to clash to death (and let a new carrot grow on their decomposing bodies!)
-   Watch for relentless foxes!
+- Exterminate opposing rabbit army.
+- Devour carrots to multiply.
+- Rush on enemy rabbit for them to
+  clash to death. This will let a
+  new carrot grow on their
+  decomposing bodies.
+- Watch for relentless foxes.
 
-   The battle zone is always symmetrical, so no whining about uneven chances!
-   Maps found under keys 0..9 & A..Z all have passed quality check in regards to carrot/foxes amounts and their topology.
+The battle zone is always
+symmetrical, so no whining
+about uneven chances!
 
+Maps found under keys 0..9 & A..Z all
+have passed quality check in regards
+to carrot/foxes amounts and their
+topology.
 
 Controls:
-   Joy 1                   - Move green rabbits army
-   Joy 2                   - Move viole(n)t rabbits army
-   0..9/A..Z               - Select one of the premium 36 maps & restart (QA certified!)
-   Shift+0..9/A..Z         - More maps! (some may be unplayable)
-   Ctrl+0..9/A..Z          - More maps! (some may be unplayable)
-   Shift+Ctrl+0..9/A..Z    - More maps! (some may be unplayable)
+- Joy 1 - Move green rabbits army
+- Joy 2 - Move viole(n)t rabbits army
+- 0..9/A..Z - Select one of the
+  premium (QA certified!) 36 maps
+  and restart the game 
 
+- Shift+0..9/A..Z      - More maps!
+- Ctrl+0..9/A..Z       - More maps!
+- Shift+Ctrl+0..9/A..Z - More maps!
 
+The "More maps!" may be unplayable.
 Have fun!
 KK
