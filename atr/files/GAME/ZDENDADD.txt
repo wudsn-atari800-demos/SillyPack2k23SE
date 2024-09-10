@@ -1,40 +1,69 @@
-Hello !
+Party:   Silly Venture 2k23 SE
+Compo:   ATARI XL/XE GAME COMPO
+Title:   ZdendaZuma II.
+         Datadisks 1-6
+Author:  Zdenda Zubr
+         aka Zdenda (code, gfx)
+         Zdenek Eisenhammer
+         aka PG (msx)
 
-Sorry for my bad English.
-I am a programmer from the Czech Republic.
-I have programmed games such as Pacman labyrinth, Space invaders battle, Ufon, Ninja-help-icopter, Robbery, Fire fighter Tobik, ZdendaZuma I., ZdendaZuma II.,
-Multijoy roulette for 17-players (16 players play with a joystick via multijoy and the last one on the keyboard as a croupier), Bombeeno, Atari hotline, ... but they are all already published.
-That's why I'm sending to your competition only the games that I have programmed for the past and this year - those are the ones that I haven't published yet anywhere.
+Info:    Mono
 
-I confirm that I wrote all these games myself, every one byte.
-I'm writing this mainly because of the ZdendaZuma-Datadisks, so that no one asks if I used Montezuma's original code.
-No, I didn't use the original code, because I can't read other people's code.
-If someone comes to the Czech Republic to Cesky Budejovice, they can view my complete source codes :)
+These are new datadiscs for my game
+Zdendazuma II., which was published
+in Abbuc-magazine last year. That's
+why I'm not sending the game, but
+only the data discs - they are all
+NEW, not published yet.
 
-When I tested all games on the original Atari 800XL without any modifications - all worked fine. From Drive 1050 and also from old AVG Cart.
-When I tested all games on the original Atari 600XL with new SUB AVG Cart, sometimes option SETTINGS / POKEY EMULATION needed to be OFF.
+Every datadisk contains 40 original
+rooms, every datadisk therefore is an 
+independent game.
 
-All games requires disconnected BASIC - so press OPTION when you start tham.
+I programmed all of this because I
+think that the original Montezuma is
+the most beautiful game anyone has
+ever made - and with my game I wanted
+to express my admiration and respect
+for the author of how much I love the
+original.
 
+Attention: This game saves score and
+loads rooms from disk, so if you play
+it in an emulator, set this ATR to
+R/W in the drive!
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-ZdendaZuma II. datadisks 1-6
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-These are new data discs for my game Zdendazuma II., which was published in Abbuc-magazine last year.
-That's why I'm not sending the game, but only the data discs - they are all NEW, not published yet.
-Every datadisk contains 40 original rooms, every datadisk IS AN INDEPENDENT GAME.
-I programmed all of this because I think that the original Montezuma is the most beautiful game anyone has ever made - and with this my game I wanted to express my admiration and respect for the author of how much I loved the original.
-Attention - this game saves score and loads rooms from disk, so if you play it in an emulator, set this ATR to R/W in drive !
-I would also like to point out that there are about 110 rooms in the original Montezuma - but many rooms are used even 8 times - while I only have 40 rooms in each data disk, but EVERY ONE IS DIFFERENT - so I have more rooms than the original !
+I would also like to point out that
+there are about 110 rooms in the
+original Montezuma - but many rooms
+are used even 8 times. I only have 40
+rooms in each data disk, but EVERY
+ONE IS DIFFERENT. So I have more
+rooms than the original!
 
 Points of Interest:
-- if someone likes both persons (Pedro/Monty), then Datadisk 01 is played like the other one
-- Datadisk 02 is (with a couple of exceptions) only black and white
-- Datadisk 03 has shields instead of swords, bags full of money instead of points, a little different ladders and bricks
-- in Datadisk 04 there are different keys, ...
-- Datadisk 05 is in a winter environment and EXITS TO NEXT ROOMS ARE HARD TO FIND (this is very frustrating for players!)
-- Datadisk 06 is from Egypt and player only falls down the whole game
-...
+- if someone likes both persons
+  (Pedro/Monty), then Datadisk 01
+  is played like the other one
+- Datadisk 02 is (with a couple of
+  exceptions) only black and white
+- Datadisk 03 has shields instead of
+  swords, bags full of money instead
+  of points, a little different
+  ladders and bricks
+- Datadisk 04 has different keys, ...
+- Datadisk 05 is in a winter
+  environment and EXITS TO NEXT ROOMS
+  ARE HARD TO FIND (this is very
+  frustrating for players!)
+- Datadisk 06 is from Egypt and
+  the player only falls down the
+  whole game
 
-Notice - all datadisks need to be run from disk "D1" !
+Note: All datadisks need to be run
+from disk drive "D1"!
 
+
+The datadisks come separately and
+are included in the download as
+"SillyVenture2k23SE_ZENDAZUMA_..atr".
