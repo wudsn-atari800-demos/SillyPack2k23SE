@@ -1,11 +1,16 @@
-sv2023se_invitro
-===============+
-- should run on any a8 with at least 48 kB of RAM
-- stereo POKEY supported
-- NTSC & PAL friendly
-- code: PPs
-- gfx: original by mOOnie/MSB, conversion 2 a8 by PPs
-- music: Buddy
-- scrolltext: Grey/MSB
+Party:   Silly Venture 2k23 SE
+Compo:   n/a
+Title:   Silly Venture 2k23 SE Invite
+Author:  Ralf Patschke
+         aka PPs (code,conversion)
+         Marcin Dworaczek
+         aka Moonie (original gfx)
+         Christian Duesterhoeft
+         aka Buddy (msx)
+         Michal Michalowski
+         aka Grey/Mystic Bytes (txt)
 
-CU @ SV2023SE!
+Info:    Mono, 2nd POKEY supported
+         Supports PAL and NTSC
+         Now RESET causes cold start
+         CU @ SV2023SE!
