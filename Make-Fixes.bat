@@ -8,6 +8,7 @@ call :fix       BONUS       README    $2000
 call :fix       MSX         PRICKUP
 call :fix       GAME        ADOOM
 call :fix       GAME        ZDENDADD
+call :fix       WILD        THEDUEL
 
 goto :eof
 
