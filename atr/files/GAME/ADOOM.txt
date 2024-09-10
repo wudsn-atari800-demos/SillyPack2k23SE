@@ -1,7 +1,19 @@
-Adoom  by Krzysztof Swiecicki - Swiety/ZELAX
+Party:   Silly Venture 2k23 SE
+Compo:   ATARI XL/XE GAME COMPO
+Title:   Adoom
+Author:  Krzysztof Swiecicki
+         akak Swiety/ZELAX
 
-Wersja na silly venture 2023 , zmieniony tryb graficzny na tryb 10 , przekonwertowane od nowa
-wszystkie postacie i textury , zmieniona mapka - zwiększone pole oraz zmieniony ekran.
+Version for Silly Venture 2023.
+Changed graphic mode to mode 10.
+Converted from scratch all characters
+and textures. Changed map.
+Increased field and changed screen.
 
-Gra bazuje na porcie Vicdooma - Steve Mc'crea ale został praktycznie napisany w całości od nowa
+The game is based on the port of
+Vicdoom by Steve Mc'crea but was
+practically completely rewritten.
 
+The game comes on a separate disk
+that is included in the dowload as
+"SillyVenture2k23SE_ADOOM.atr".
