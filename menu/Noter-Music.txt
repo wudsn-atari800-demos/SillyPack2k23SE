@@ -1,4 +1,4 @@
-Title:    ?
-Composer: Real name? (Handle?)
-File:     Composers\???\???.sap
+Title:    Timeless Announcement - Loading #5
+Composer: Aleksander Martin (Alex)
+File:     Composers/Martin_Aleksander/Timeless_Announcemt_Load_5.sap
 Format:   MPT

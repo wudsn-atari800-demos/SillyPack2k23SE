@@ -28,11 +28,12 @@ Gdansk,Poland/sv2k23se_pack.zip
 https://files.scene.org/browse/
 parties/2023/sillyventure23/
 
-Menu background music ""
-by Aleksander Martin (Alex)
+Menu background music "Sexquix -
+Ingame" by Aleksander Martin (Alex)
 
 Background music for this readme
-"???" by ??? ??? (???)
+"Timeless Announcement - Loading #5"
+by Aleksander Martin (Alex)
 
 Stay Atari and see you at SV2k23 WE.
 

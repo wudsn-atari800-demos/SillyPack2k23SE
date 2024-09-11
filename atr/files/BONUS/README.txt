@@ -22,20 +22,19 @@ work, just write to jac@wudsn.com.
 Binaries downloaded from:
 
 http://ftp.pigwa.net/stuff/parties/
-prods/Silly_Venture,2022.12.08-11,
-Gdansk,Poland
+prods/Silly_Venture,2023.08.17-20,
+Gdansk,Poland/sv2k23se_pack.zip
 
 https://files.scene.org/browse/
-parties/2022/sillyventure22
+parties/2023/sillyventure23/
 
-
-Menu background music "Sexquix"
-by Aleksander Martin (Alex)
+Menu background music "Sexquix -
+Ingame" by Aleksander Martin (Alex)
 
 Background music for this readme
-"Max - Ingame" by Aleksander
-Martin (Alex)
+"Timeless Announcement - Loading #5"
+by Aleksander Martin (Alex)
 
-Stay Atari and see you at SV2k22 WE.
+Stay Atari and see you at SV2k23 WE.
 
 JAC!
