@@ -1,13 +1,15 @@
 Party:   Silly Venture 2k23 SE
 Compo:   ATARI XL/XE DEMO COMPO
-Title:   ???
-Author:  ???
+Title:   sv23we invite
+Author:  Ralf Patschke
+         aka PPs (code,conversion)
+         Marcin Dworaczek
+         aka Moonie (original gfx)
+         Christian Duesterhoeft
+         aka Buddy (msx)
 
-sv23we invite
--------------
-- intro should run on any A8 with at least 48 kB RAM
-- stereo POKEY supported
-- music: Buddy
-- original logo: mOOnie
-- logo converted 2 A8 + coding: PPs
-_________________________________________August 2023
+Info:    Supports PAL and NTSC
+         Stereo, 2nd POKEY required
+         Now RESET causes cold start
+
+Date:    August 2023

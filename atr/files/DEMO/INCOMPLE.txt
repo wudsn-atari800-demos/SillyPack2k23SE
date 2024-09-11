@@ -1,38 +1,16 @@
 Party:   Silly Venture 2k23 WE
 Compo:   ATARI XL/XE DEMO COMPO
 Title:   )...incomplete...(
-Author:  ???
+Author:  Ralf Patschke
+         aka PPs (code,conversion)
+         Marcin Dworaczek
+         aka Moonie (original gfx)
+         Christian Duesterhoeft
+         aka Buddy (msx)
 
-         ??? (code)
-         ??? (gfx)
-         ??? (fnt)
-         ??? (msx)
-
-Info:
-         Supports PAL and NTSC
-         Requires BASIC
-         Requires Atari XL OS Rev. 2
-         Requires 128K RAM
-         Requires 256K RAM
-         Requires 320K RAM
-         No sound
-         Mono
-         Mono, 2nd POKEY supported
+Info:    Supports PAL and NTSC
          Stereo, 2nd POKEY required
-         Requires VBXE video board
-         SillyPack compatible version
-         Now runs from DOS 2.5
          Now RESET causes cold start
-         Now runs reliably on real
-         hardware and from DOS 2.5
+         SillyPack compatible version
 
-Tools:   Raster Music Tracker 1.28
-
-
-- intro should run on any A8 with at least 48 kB RAM
-- stereo POKEY supported
-- music: Buddy
-- original sv23se logo: mOOnie
-- logo converted 2 A8 + other gfx + coding: PPs
-
-Date:   August 2023
+Date:    August 2023
