@@ -10,6 +10,6 @@ Author:  Ralf Patschke
 
 Info:    Supports PAL and NTSC
          Stereo, 2nd POKEY required
-         Now RESET causes cold start
+         Now RESET causes a cold start
 
 Date:    August 2023

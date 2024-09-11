@@ -28,7 +28,7 @@ Gdansk,Poland/sv2k23se_pack.zip
 https://files.scene.org/browse/
 parties/2023/sillyventure23/
 
-Menu background music "Sexquix"
+Menu background music ""
 by Aleksander Martin (Alex)
 
 Background music for this readme
