@@ -1,30 +1,23 @@
-Hello !
+Party:   Silly Venture 2k23 SE
+Compo:   ATARI XL/XE GAME COMPO
+Title:   Dark City Road
+Author:  Zdenda Zubr
+         aka Zdenda (code)
+         Marek Pesout
+         aka Poison (msx)
+         Zdenek Eisenhammer
+         aka PG (car gfx)
 
-Sorry for my bad English.
-I am a programmer from the Czech Republic.
-I have programmed games such as Pacman labyrinth, Space invaders battle, Ufon, Ninja-help-icopter, Robbery, Fire fighter Tobik, ZdendaZuma I., ZdendaZuma II.,
-Multijoy roulette for 17-players (16 players play with a joystick via multijoy and the last one on the keyboard as a croupier), Bombeeno, Atari hotline, ... but they are all already published.
-That's why I'm sending to your competition only the games that I have programmed for the past and this year - those are the ones that I haven't published yet anywhere.
+The goal of the game is to kill 10
+persons. The playfield is quite large
+in this game: 48 mode-lines, each 
+line is 256 bytes (full page) wide.
+Fuel can be refilled at the gas
+station at any time. If you crash
+your car, no problem - the game
+continues. I just put you back at the
+beginning. If you run out of fuel,
+it's game over.
 
-I confirm that I wrote all these games myself, every one byte.
-I'm writing this mainly because of the ZdendaZuma-Datadisks, so that no one asks if I used Montezuma's original code.
-No, I didn't use the original code, because I can't read other people's code.
-If someone comes to the Czech Republic to Cesky Budejovice, they can view my complete source codes :)
-
-When I tested all games on the original Atari 800XL without any modifications - all worked fine. From Drive 1050 and also from old AVG Cart.
-When I tested all games on the original Atari 600XL with new SUB AVG Cart, sometimes option SETTINGS / POKEY EMULATION needed to be OFF.
-
-All games requires disconnected BASIC - so press OPTION when you start tham.
-
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-Dark City Road
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-The goal of the game is to kill 10 persons.
-The playfield is quite large in this game - 48 mode-lines, each 256 bytes (full page) wide.
-Fuel can be refilled at the gas station at any time.
-If you crash your car, no problem - the game continues (I just put you back at the beginning).
-If you run out of fuel, it's game over.
-And if you manage to kill all 10 persons, you win the game !
-The author of the music in this game is Poison.
-The author of the design of the car is by PG.
+And if you manage to kill all 10
+persons, you win the game !

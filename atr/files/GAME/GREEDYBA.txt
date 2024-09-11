@@ -1,0 +1,14 @@
+Party:   Silly Venture 2k23 SE
+Compo:   ATARI XL/XE GAME COMPO
+Title:   Greedy Bat
+Author:  Zdenda Zubr
+         aka Zdenda (code)
+
+Info     Mono
+
+In this relaxing game, a greedy bat
+roams the rooms, collecting riches
+and looking for a way out. I would
+like to draw your attention to the
+beautiful, gigantic, flying bullet
+from the gun :)
