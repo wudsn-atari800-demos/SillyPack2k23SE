@@ -13,6 +13,8 @@ call :fix       GAME        ADOOM
 call :fix       GAME        ZDENDADD
 call :fix       GAME256     KILLRABB
 call :fix       GAME256     SKARB
+call :fix       INTRO256    COLORSIN
+call :fix       INTRO256    FLIGHT
 call :fix       WILD        THEDUEL
 
 goto :eof

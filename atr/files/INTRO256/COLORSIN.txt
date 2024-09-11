@@ -1,6 +1,12 @@
-colored sines
--------------
-- should run on any A8 computer
-- 251 bytes intro for sv23se
-- coded between June 26th and July 13th, 2023
-______stay_ATARI!_________________________PPs
+Party:   Silly Venture 2k23 SE
+Compo:   ATARI XL/XE 256B INTRO COMPO
+Title:   colored sines
+Author:  Ralf Patschke
+         aka PPs (code)
+
+Info:    Mono
+         251 bytes with RUNADR
+         SillyPack compatible version
+
+Date:    Coded between June 26th
+         and July 13th, 2023
