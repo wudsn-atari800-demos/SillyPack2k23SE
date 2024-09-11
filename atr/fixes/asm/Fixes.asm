@@ -70,8 +70,8 @@ wait	cmp $14
 
 	.macro m_add_runadr filename
 	opt h-
-	.def length = .filesize :filename
-	.get :filename
+	.def length = .filesize ":filename"
+	.get ":filename"
 	.sav length
 
 	.echo "Fixed: Now runs from DOS 2.5. RUNADR segment added. New length is ",length+6," bytes"
