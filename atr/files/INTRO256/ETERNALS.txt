@@ -1,4 +1,8 @@
-Praca na konkurs 256 bajtów intro Atari XL/XE
-Silly Venture 2023 Summer Edition
-tytuł: Eternal Sunshine
-autor: gorgh/Agenda
+Party:   Silly Venture 2k23 SE
+Compo:   ATARI XL/XE 256B INTRO COMPO
+Title:   Eternal Sunshine
+Author:  Kamil Trzaska
+         aka gorgh/Agenda (code)
+
+Info:    Mono
+         Now runs from DOS 2.5
