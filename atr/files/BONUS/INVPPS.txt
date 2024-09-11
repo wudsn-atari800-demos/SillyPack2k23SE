@@ -12,5 +12,5 @@ Author:  Ralf Patschke
 
 Info:    Mono, 2nd POKEY supported
          Supports PAL and NTSC
-         Now RESET causes a cold start
+         Now RESET causes cold start
          CU @ SV2023SE!
