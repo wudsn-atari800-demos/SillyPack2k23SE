@@ -66,4 +66,4 @@ from disk drive "D1"!
 
 The datadisks come separately and
 are included in the download as
-"SillyVenture2k23SE_ZENDAZUMA_..atr".
+"SV2k23SE_ZENDAZUMA_..atr".
