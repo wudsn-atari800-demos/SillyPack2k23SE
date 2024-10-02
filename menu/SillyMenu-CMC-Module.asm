@@ -1,4 +1,4 @@
-* Title:    	Sexquix - Ingame
+* Title:    Sexquix - Ingame
 * Composer: Aleksander Martin (Alex)
 * File:     CComposers/Martin_Aleksander/Sexquix_Ingame.sap
 * Format:   MPT
