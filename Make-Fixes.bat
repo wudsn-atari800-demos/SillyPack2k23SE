@@ -8,6 +8,7 @@ call :fix       BONUS       README    $2000
 call :fix       BONUS       INVDSR1
 call :fix       BONUS       INVDSR2
 call :fix       BONUS       INVPPS
+call :fix       DEMO        ATARI3D   $2000
 call :fix       DEMO        INCOMPLE
 call :fix       DEMO        SV23WEIN
 call :fix       MSX         PRICKUP

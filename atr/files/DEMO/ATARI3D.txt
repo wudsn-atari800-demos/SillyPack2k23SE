@@ -1,12 +1,16 @@
 Party:   Silly Venture 2k23 SE
 Compo:   ATARI XL/XE DEMO COMPO
-Title:   ???
-Author:  ???
+Title:   Atari3D
+Author:  Desire
 
-         ??? (code)
-         ??? (gfx)
-         ??? (fnt)
-         ??? (msx)
+         Karolj Nadj
+         aka Heaven (code)
+         Vincent Bijwaard
+         aka Alien (gfx)
+         Erwin Roosjen 
+         aka Hammerfist (fnt)
+         Roland Voss
+         aka Triace (msx)
 
 Info:
          Supports PAL and NTSC
@@ -25,10 +29,3 @@ Info:
          Now RESET causes cold start
          Now runs reliably on real
          hardware and from DOS 2.5
-
-Tools:   Raster Music Tracker 1.28
-
-Title: Atari3D
-Authors:  Desire
-
-ATARI XL/XE DEMO COMPO
