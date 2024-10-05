@@ -17,8 +17,8 @@ only the data discs - they are all
 NEW, not published yet.
 
 Every datadisk contains 40 original
-rooms, every datadisk therefore is an 
-independent game.
+rooms, every datadisk therefore is 
+an independent game.
 
 I programmed all of this because I
 think that the original Montezuma is
@@ -61,7 +61,7 @@ Points of Interest:
   whole game
 
 Note: All datadisks need to be run
-from disk drive "D1"!
+from disk drive "D1:"!
 
 
 The datadisks come separately and
