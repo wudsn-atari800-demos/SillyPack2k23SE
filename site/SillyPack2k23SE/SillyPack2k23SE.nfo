@@ -30,11 +30,26 @@
 
  I have patched the following releases for your seamless pleasure:
 
- * ?                           - SillyPack compatible version
- * ?                           - Now runs from DOS 2.5
 
+ * Atari 3D                    - Now loads from DOS 2.5.
+ * colored sines               - SillyPack compatible version
+ * Epic Killer Rabbits Battle  - Now starts with BASIC disabled.
+ * Eternal Sunshine            - Now runs from DOS 2.5.
+ * Flight Over Unknown Land    - Now runs from DOS 2.5.
+ * ) ... incomplete ...(       - Now performs cold start upon RESET.
+ * Invitation #1               - Now starts with BASIC enabled.
+                               - Now runs from DOS 2.5.
+ * Invitation #2               - Now runs from DOS 2.5.
+                               - Now performs cold start upon RESET.
+ * Invitation #3               - Now performs cold start upon RESET.
+ * Prick up your ears          - Now loads from DOS 2.5.
+                               - Now performs cold start upon RESET.
+ * Skarp Piratow               - Now runs from DOS 2.5.
+ * sw23se invite               - Now performs cold start upon RESET.
+ * The Duel                    - Now loads from DOS 2.5.
+                               - Now performs cold start upon RESET.
 
- Original ASCII artwork by sK!, music "Sexquix - Ingame" by Alex?, menu by JAC!
+ Original ASCII artwork by sK!, music "Sexquix - Ingame" by Alex, menu by JAC!
 
  This download also contains a pre-configured Altirra installation.
  Just extract the archive to a folder and run "SillyPack2k23SE.bat".
